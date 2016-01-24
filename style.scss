@@ -283,8 +283,12 @@ footer {
   text-align: center;
 }
 
+/*********************/
+/* MYCUSTUM SECTIONS */
+/*********************/
+
 body {
-　font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+　font-family: $Meiryo, $Osaka, $sans-serif;
 } 
 
 
